@@ -67,6 +67,152 @@ main{
     width: 100%;
     height: 215vh;
     background-color: #1E293B;
+    justify-content: center;
+    padding-top: 100px;
+    flex-wrap: wrap;
+    display: flex;
+}
+#sec1-i-main{
+    width: 80%;
+    height: 20%;
+    background-color: #17253d;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    
+}
+#sec1-i-main a{
+    color: rgb(97, 110, 255);
+    transition: all 0.6s ease;
+}
+#sec1-i-main a:hover{
+    color: rgb(24, 255, 44);
+}
+#sec2-i-main{
+    height: 20%;
+    width: 100%;
+}
+#sec3-i-main{
+    width: 80%;
+    height: 55%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+#ofer-main{
+    width: 60%;
+    height: 80%;
+    background-color: #17253d;
+    border: 1px black solid;
+    border-radius: 30px;
+}
+#ofer-main h2{
+    max-width: 100%;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+#ofer-main h3{
+    max-width: 100%;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+#ofer-main img{
+    width: 80%;
+    height: auto;
+    justify-self: center;
+    display: flex;
+    border-radius: 30px;
+
+}
+#ofer-main a{
+    width: 30%;
+    height: 5%;
+    border: 3px solid black;
+    border-radius: 20px;
+    justify-self: center;
+    align-self: center;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    background-color: rgb(214, 214, 21);
+}
+#sec1-o-main{
+    width: 80%;
+    height: 55%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+#sec1-o-main h2{
+    min-width: 100%;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+#sec1-sec1-o-main{
+    width: 45%;
+    height: 90%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+#sec2-sec1-o-main{
+    width: 45%;
+    height: 90%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.ofer-main{
+    width: 80%;
+    height: 80%;
+    background-color: #17253d;
+    border: 1px black solid;
+    border-radius: 30px;
+    margin: 10px;
+}
+.ofer-main h2{
+    max-width: 100%;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+.ofer-main h3{
+    max-width: 100%;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+.ofer-main img{
+    width: 80%;
+    height: auto;
+    justify-self: center;
+    display: flex;
+    border-radius: 30px;
+
+}
+.ofer-main a{
+    width: 40%;
+    height: 8%;
+    border: 3px solid black;
+    border-radius: 20px;
+    justify-self: center;
+    align-self: center;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    background-color: rgb(214, 214, 21);
 }
 #Under-head{
     width: 100%;
